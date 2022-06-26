@@ -9,9 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  visibility_detector: ^0.3.3
+  visibility_detector: ^0.2.2
   tuple: ^2.0.0
-  collection: ^1.16.0
+  # collection: ^1.16.0
 
 dev_dependencies:
   flutter_test:
